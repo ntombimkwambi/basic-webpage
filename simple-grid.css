@@ -251,13 +251,13 @@ th, td {
 } */
 
 .city p {
-    /* padding-left: 7em; */
+    padding-left: 6em;
     /* text-align: justify; */
-    width: 50%;
+    /* width: 50%; */
 }
 
 .city img {
-    /* padding-top: 2em; */
+    padding-top: 2em;
 }
 
 /* .clearfix::after {
